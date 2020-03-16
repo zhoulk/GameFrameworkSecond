@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1170997943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea5ca8add079e69f3a8f6906069b7009
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 152107939fa9d829ca4a5404911ab816
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Demo/AssetBundle/Demo9_menu.unity
+Dependencies: []

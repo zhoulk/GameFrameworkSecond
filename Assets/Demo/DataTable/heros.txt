@@ -1,0 +1,6 @@
+#	配置文件		
+#	Id	Name	Atk
+#	int	string	int
+#	ID	名称	攻击
+	1	大侠	100
+	2	虾米	0

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildReport>
+    <Summary>
+      <ProductName>GameFrameworkSecond</ProductName>
+      <CompanyName>lutongnet</CompanyName>
+      <GameIdentifier>com.lutongnet.GF</GameIdentifier>
+      <ApplicableGameVersion>1.0</ApplicableGameVersion>
+      <InternalResourceVersion>5</InternalResourceVersion>
+      <UnityVersion>2017.4.17f1</UnityVersion>
+      <Platforms>Windows64</Platforms>
+      <ZipSelected>True</ZipSelected>
+      <BuildAssetBundleOptions>272</BuildAssetBundleOptions>
+    </Summary>
+    <AssetBundles Count="3">
+      <AssetBundle Name="demo/assetbundle/demo9" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="1dd84772c43ccbe458522909ac4fb33e" Name="Assets/Demo/AssetBundle/Demo9.unity" Length="19908" HashCode="-112587250" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="108364" HashCode="2081507943" ZipLength="0" ZipHashCode="0" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="demo/assetbundle/demo9_menu" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="e2bbe3c1f75f1c7449a8c8d96af1b03e" Name="Assets/Demo/AssetBundle/Demo9_menu.unity" Length="6586" HashCode="-1220884647" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="103390" HashCode="1554897400" ZipLength="0" ZipHashCode="0" />
+        </Codes>
+      </AssetBundle>
+      <AssetBundle Name="demo/assetbundle/ui_menu" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="429d8ccdcc241ee4889d67139e3880ff" Name="Assets/Demo/AssetBundle/UI_Menu.prefab" Length="3886" HashCode="1571644396" />
+        </Assets>
+        <Codes>
+          <Windows64 Length="3782" HashCode="-467487236" ZipLength="0" ZipHashCode="0" />
+        </Codes>
+      </AssetBundle>
+    </AssetBundles>
+  </BuildReport>
+</UnityGameFramework>

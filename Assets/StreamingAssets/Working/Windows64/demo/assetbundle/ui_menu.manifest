@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3245194588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84b6ec7a7c3f5d8b6fe3145d8cdf8e0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6a7d46012deaa8f851f99cc4b9d7c8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70abaf0fec0188347af9c2171d974114, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Demo/AssetBundle/UI_Menu.prefab
+Dependencies: []
